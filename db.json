@@ -109,31 +109,73 @@
   ],
   "review-doctor": [{
       "id": "1",
-      "requestId": "1",
+      "lesionId": "1",
       "reviewResult": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
     {
       "id": "2",
-      "requestId": "2",
+      "lesionId": "2",
       "reviewResult": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
     {
       "id": "3",
-      "requestId": "3",
+      "lesionId": "3",
       "reviewResult": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
     {
       "id": "4",
-      "requestId": "4",
+      "lesionId": "4",
       "reviewResult": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
     {
       "id": "5",
-      "requestId": "5",
+      "lesionId": "5",
       "reviewResult": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     }
   ],
-  "questionnaire": [],
+  "questionnaire": [{
+      "id": "1",
+      "lesionId": "1",
+      "question": "It it new?",
+      "status": true
+    },
+    {
+      "id": "2",
+      "lesionId": "2",
+      "question": "Is it changing in size?",
+      "status": true
+    },
+    {
+      "id": "3",
+      "lesionId": "3",
+      "question": "Is it changing shape?",
+      "status": true
+    },
+    {
+      "id": "4",
+      "lesionId": "4",
+      "question": "Is it changing colour?",
+      "status": true
+    },
+    {
+      "id": "5",
+      "lesionId": "5",
+      "question": "Is it itchy or painful?",
+      "status": true
+    },
+    {
+      "id": "6",
+      "lesionId": "6",
+      "question": "Is it bleeding or weeping?",
+      "status": true
+    },
+    {
+      "id": "7",
+      "lesionId": "7",
+      "question": "How long has it been there for?",
+      "status": true
+    }
+  ],
   "regions": [],
   "imageMoles": []
 }
